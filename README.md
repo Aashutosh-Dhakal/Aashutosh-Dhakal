@@ -32,3 +32,7 @@ Music: I love curating playlists,<br/>
 GitHub: https://github.com/Aashutosh-Dhakal<br/>
 LinkedIn: https://www.linkedin.com/in/aashutosh-dhakal/<br/>
 Email: dhakalaashutosh123@gmail.com<br/>
+
+![Aashutosh-Dhakal's Stats](https://github-readme-stats.vercel.app/api?username=Aashutosh-Dhakal&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![Aashutosh-Dhakal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aashutosh-Dhakal&theme=vue-dark&hide_border=false)
+![Aashutosh-Dhakal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashutosh-Dhakal&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
