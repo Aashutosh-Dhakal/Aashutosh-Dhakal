@@ -17,6 +17,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📫  Connect with Me
-GitHub: https://github.com/Aashutosh-Dhakal<br/>
-LinkedIn: https://www.linkedin.com/in/aashutosh-dhakal/<br/>
 Email: dhakalaashutosh123@gmail.com<br/>
